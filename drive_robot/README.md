@@ -57,9 +57,6 @@ def distanceRobot(distance, x):
 	if x == distance:
 	return True
 ```
-# How to it work
-``` python 
 
-```
 
 
